@@ -1,6 +1,6 @@
 # EDA-and-Visualization-of-a-Real-World-Dataset
-**Project Overview:
-**
+Project Overview:
+
 This project presents a comprehensive Exploratory Data Analysis (EDA) of the Titanic Dataset. The primary objective was to uncover insights from the data using statistical methods and visualizations. The process includes data cleaning, identifying and handling missing values and outliers, and generating meaningful charts to understand variable distributions and relationships.
 
 This analysis was performed as part of Task 1: EDA and Visualization of a Real-World Dataset.
@@ -15,10 +15,15 @@ Problem Type: Binary classification (Survival prediction)
 **Technologies Used**:
 
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Google Colab
 
 **Key Steps Performed**
