@@ -8,23 +8,16 @@ This analysis was performed as part of Task 1: EDA and Visualization of a Real-W
 **Dataset**:
 
 Source: Titanic Dataset (commonly available via Kaggle(https://www.kaggle.com/))
+
 Records: 891 rows × 12 columns
+
 Type: Mixed (categorical & numerical)
+
 Problem Type: Binary classification (Survival prediction)
 
 **Technologies Used**:
 
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Google Colab
+Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 
 **Key Steps Performed**
 
